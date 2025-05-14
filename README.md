@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on any enriching Backend projects<br>🤝 I’m looking for help with Non-Relational Databases<br>🌱 I’m currently learning Python for Backend<br>💬 Ask me about my current role as a Junior Full Stack Web Developer<br>⚡ Fun fact about me: I'm getting my certification in Cloud Engineering and I'm interested in Prompt Engineering
+👯 I’m looking to collaborate on any enriching Backend projects<br>🤝 I’m looking for help with Non-Relational Databases<br>🌱 I’m currently learning Python for Backend<br>💬 Ask me about my current role as a Junior Full Stack Web Developer<br>⚡ Fun fact about me: I'm also a Twitch streamer (check me out - gicless) and I'm interested in Prompt Engineering
 
 
 ## 🌐 Socials:
